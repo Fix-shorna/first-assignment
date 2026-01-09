@@ -78,3 +78,110 @@ background-size: cover;
   background-position: center;
 padding: 70px 120px 134px;
 }
+#note{
+    padding-top: 25px;
+    margin: 0 auto;
+}
+#note .forth{
+  max-width: 1600px;
+height: 448px;
+margin: 0 auto;
+text-align: center;
+padding: 0 120px;
+}
+#letter{font-style: Bold;
+font-size: 48px;
+font-weight: 700;}
+ #note .forth .four-head{
+   padding-bottom: 44px;
+}
+ .four-foot{
+    width:322px;
+    height: 300px;
+border: 2px solid rgb(246, 243, 241);
+display: flex;
+gap: 24px;
+justify-content: center;
+align-items: center;
+padding: 24px;
+ }
+.box-container{
+    display: flex;
+gap: 44px;
+padding: 0 120px;
+
+ }
+ .box{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50% ;
+    background-color: red;
+    align-items: center;
+    margin: 0 auto;
+ }
+ .four-card{
+    padding: 24px;
+   justify-content: center;
+align-items: center;
+ }
+ #fifth{
+    padding: 120px;
+   
+ }
+ .fifth-file{
+    display: flex;
+  justify-content:center;
+align-items: center;
+width: 1360px;
+   height: 600px;
+   padding: 120px;
+  
+ }
+ .image{
+     width: 600px;
+height:600px;
+border-radius: 12px;
+padding-right: 60px;
+
+}
+#green2{
+   color:#30B868 ;
+   font-size: 16px;
+   text-align: left;
+  padding-bottom: 10px;
+}
+.brain h1{
+    margin: 36px 0 50px;
+}
+#para2{
+    text-align: left;
+    font-size: 16px;
+    padding: 12px 0 30px;
+}
+.brain{
+    text-align: left;
+    width: 700px;
+height: 396px;
+}
+#last{
+    padding: 120px;
+}
+#last .last-container{
+    width:1200px;
+height: 300px;
+margin: 0 auto;
+text-align: center;
+background: rgba(247, 246, 242, 1);
+padding: 80px 40px;
+}
+.section-heading h2{
+font-style: Bold;
+font-size: 40px;margin-bottom: 16px;
+}
+.section-heading p{
+    font-size: 16px;
+    margin-bottom: 24px;
+    line-height: 24px;
+}
