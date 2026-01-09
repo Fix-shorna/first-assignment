@@ -10,6 +10,7 @@ nav{
    margin: 0 auto;
    align-items: center;
  gap: 180px;
+
 }
 nav .first{
     height: 40px;
@@ -35,12 +36,10 @@ button{
     color: white;
     border-radius:3px ;
 border-style: none;
-font-size:bold;
-width: 165px;
-height: 35px;
-margin:0 auto;
-text-wrap:wrap ;
-
+font-weight:bold;
+font-size: 13px;
+padding: 10px 12px;
+width: 130px;
 }
 header{
 padding-top:5px ;
