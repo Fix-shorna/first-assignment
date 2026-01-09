@@ -1,0 +1,14 @@
+.first{
+    display: flex;
+   justify-content: center;
+}
+ul li link{
+color:black;
+   
+}
+button{
+    background-color: rgb(57, 119, 57);
+    color: white;
+    border-radius:3px ;
+
+}
