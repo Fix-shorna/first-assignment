@@ -10,6 +10,7 @@ nav{
    margin: 0 auto;
    align-items: center;
  gap: 180px;
+ background-color: #FFFFFF;
 
 }
 nav .first{
@@ -31,16 +32,49 @@ display: flex;
 list-style-type: none;
 gap: 32px;
 }
-button{
+.btn{
     background-color:#30B868;
     color: white;
     border-radius:3px ;
 border-style: none;
-font-weight:bold;
+font: weight 600px;;
 font-size: 13px;
 padding: 10px 12px;
 width: 130px;
 }
 header{
 padding-top:5px ;
+}
+#banner{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#green{
+    color: #30B868;
+}
+h1{
+      /* margin: 51px 295px 16px ; */
+    font-style: Bold;
+font-size: 50px;
+font-weight: 700;
+}
+.para{
+    margin-top:16px;
+    margin-bottom: 32px;
+    font-size: 14px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#banner .third{
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0 auto;
+    background: url(./assets/hero-bg.png);
+   
+background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+padding: 70px 120px 134px;
 }
