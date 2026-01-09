@@ -1,14 +1,47 @@
-.first{
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+nav{
     display: flex;
    justify-content: center;
+   margin: 0 auto;
+   align-items: center;
+ gap: 180px;
 }
-ul li link{
-color:black;
+nav .first{
+    height: 40px;
+    width: auto;
+}
+
+nav .second a{
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    color: #000000;
+    font-size: 14px;
    
 }
+ nav .second{
+display: flex;
+list-style-type: none;
+gap: 32px;
+}
 button{
-    background-color: rgb(57, 119, 57);
+    background-color:#30B868;
     color: white;
     border-radius:3px ;
+border-style: none;
+font-size:bold;
+width: 165px;
+height: 35px;
+margin:0 auto;
+text-wrap:wrap ;
 
+}
+header{
+padding-top:5px ;
 }
